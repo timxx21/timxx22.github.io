@@ -1,21 +1,30 @@
 footer {
-    display: flex;
-    justify-content: center;
-    padding: 5px;
-    background-color: #45a1ff;
-    color: #fff;
+	display: flex;
+	justify-content: center;
+	padding: 5px;
+	background-color: #45a1ff;
+	color: #fff;
 }
-.div1{
-    width:100%;
-    background-color:#ccc; 
-    padding: 10px; 
-    height:120px; 
+
+.div1 {
+	width: 100%;
+	background-color: #ccc;
+	padding: 10px;
+	height: 120px;
 }
-.div2{
-    background-color:#ddd; padding:10px;
+
+.div2 {
+	background-color: #ddd;
+	padding: 10px;
 }
-.div3{
-    max-width:800px; background-color:#ccc; margin: 0 auto; margin-top:20px; padding:10px;"
+
+.div3 {
+	max-width: 800px;
+	background-color: #ccc;
+	margin: 0 auto;
+	margin-top: 20px;
+	padding: 10px;
+"
 }
 table {
 font-size: 14px;
